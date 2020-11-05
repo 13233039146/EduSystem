@@ -7,3 +7,6 @@ class BaseModel(models.Model):
     create_time = models.DateField(auto_now_add=True, verbose_name='创建时间')
     update_time = models.DateField(auto_now=True, verbose_name='修改时间')
     ordering = models.IntegerField(default=1, verbose_name='序号')
+
+    class Meta:
+        abstract = True

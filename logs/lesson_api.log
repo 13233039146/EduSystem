@@ -1,2 +1,84 @@
 ERROR 2020-11-04 21:08:19,322 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
 WARNING 2020-11-04 21:08:19,367 basehttp 124 "GET /admin/index/nav/ HTTP/1.1" 400 71376
+ERROR 2020-11-05 09:49:52,776 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 09:49:52,887 basehttp 124 "GET / HTTP/1.1" 400 70891
+ERROR 2020-11-05 09:49:52,890 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 09:49:52,947 basehttp 124 "GET / HTTP/1.1" 400 70891
+ERROR 2020-11-05 09:49:53,250 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 09:49:53,298 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 70805
+ERROR 2020-11-05 09:49:53,688 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 09:49:53,723 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 70805
+ERROR 2020-11-05 09:49:56,657 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 09:49:56,694 basehttp 124 "GET /admin/ HTTP/1.1" 400 71086
+ERROR 2020-11-05 09:49:57,263 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 09:49:57,297 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 70811
+ERROR 2020-11-05 09:50:38,726 basehttp 124 "GET /admin/ HTTP/1.1" 500 59
+WARNING 2020-11-05 09:50:39,995 base 93 Not Found: /favicon.ico
+WARNING 2020-11-05 09:50:39,996 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2211
+WARNING 2020-11-05 09:50:48,485 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 09:50:48,533 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+ERROR 2020-11-05 12:08:30,495 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 12:08:30,607 basehttp 124 "GET / HTTP/1.1" 400 70929
+ERROR 2020-11-05 12:08:30,855 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 12:08:30,899 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 70843
+ERROR 2020-11-05 12:08:33,900 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 12:08:33,936 basehttp 124 "GET /admin/ HTTP/1.1" 400 70996
+ERROR 2020-11-05 12:08:34,032 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 12:08:34,065 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 70848
+WARNING 2020-11-05 12:10:46,045 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:10:46,090 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:14:33,414 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:14:33,461 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:14:46,557 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:14:46,600 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:15:07,238 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:15:07,275 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:15:15,418 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:15:15,455 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:15:43,019 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:15:43,067 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:16:03,871 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:16:03,915 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:16:18,677 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:16:18,721 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:16:36,094 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:16:36,138 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:16:50,188 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:16:50,210 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:17:05,638 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:17:05,675 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:17:16,380 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:17:16,417 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-05 12:54:37,598 base 93 Not Found: //user/login/
+WARNING 2020-11-05 12:54:37,599 basehttp 124 "POST //user/login/ HTTP/1.1" 404 2320
+WARNING 2020-11-05 12:55:13,728 base 93 Not Found: //user/login/
+WARNING 2020-11-05 12:55:13,728 basehttp 124 "POST //user/login/ HTTP/1.1" 404 2320
+WARNING 2020-11-05 13:26:17,151 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 13:26:52,920 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+ERROR 2020-11-05 13:56:31,678 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 13:56:31,763 basehttp 124 "POST /user/login/ HTTP/1.1" 400 70226
+WARNING 2020-11-05 17:43:10,801 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 17:43:18,094 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 19:46:48,110 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 19:47:06,231 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 19:47:18,740 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 19:49:24,543 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 19:49:39,105 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 19:50:30,571 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 19:52:07,433 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 19:52:19,408 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 19:55:19,433 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 20:00:14,688 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 20:00:48,889 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 20:01:03,026 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 20:02:18,036 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 20:02:29,097 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 20:03:57,349 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 20:04:05,473 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 20:10:20,344 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 20:11:09,431 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 20:12:41,960 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 20:15:58,213 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 20:18:07,306 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 20:23:42,931 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2020-11-05 20:24:08,210 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68

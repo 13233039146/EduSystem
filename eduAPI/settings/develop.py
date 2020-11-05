@@ -9,7 +9,7 @@ https://docs.djangoproject.com/en/2.0/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/2.0/ref/settings/
 """
-
+import datetime
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
@@ -40,11 +40,12 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'corsheaders', # 跨站开启
+    'corsheaders',  # 跨站开启
     'xadmin',  # xadmin 三点配置
     'crispy_forms',
     'reversion',
     'index',  # app挂载
+    'user',
 ]
 
 MIDDLEWARE = [
@@ -85,7 +86,7 @@ WSGI_APPLICATION = 'eduAPI.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'db_edu',
+        'NAME': 'db_edu2',
         'PORT': 3306,
         'USER': 'root',
         'PASSWORD': '070354',
@@ -139,6 +140,14 @@ REST_FRAMEWORK = {
     'EXCEPTION_HANDLER': 'edu_api.utils.exceptions.exception_handler',
 }
 
+# JWT配置
+JWT_AUTH = {
+    # token有效期时间
+    'JWT_EXPIRATION_DELTA': datetime.timedelta(seconds=300),
+    # 自定义jwt返回值
+    'JWT_RESPONSE_PAYLOAD_HANDLER':
+        'user.login_handler.jwt_response_payload_handler',
+}
 # 允许跨域请求
 CORS_ORIGIN_ALLOW_ALL = True
 # 日志配置
@@ -191,3 +200,9 @@ LOGGING = {
         },
     }
 }
+
+AUTH_USER_MODEL = 'user.UserMsg'
+# 多条件登录 自定义类的指定
+AUTHENTICATION_BACKENDS = [
+    "user.login_handler.UserAuth",
+]
