@@ -26,5 +26,6 @@ urlpatterns = [
     path('admin/', xadmin.site.urls),
     re_path(r'^media/(?P<path>.*)', serve, {"document_root": settings.MEDIA_ROOT}),
     path('index/', include('index.urls')),
-    path('user/', include('user.urls'))
+    path('user/', include('user.urls')),
+    path('course/', include('course.urls')),
 ]

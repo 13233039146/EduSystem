@@ -2,7 +2,7 @@ from django.contrib.auth.backends import ModelBackend
 from django.db.models import Q
 from user.models import UserMsg
 
-
+# 自定义返回值
 def jwt_response_payload_handler(token, user=None, request=None):
     return {
         "token": token,

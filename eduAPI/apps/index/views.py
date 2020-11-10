@@ -1,9 +1,8 @@
-from django.shortcuts import render
 from rest_framework.generics import ListAPIView
 # Create your views here.
 from index.models import Banner, Nav
 from index.serializer import BannerSerializer, NavSerializer
-from index.const import BANNER_MAX
+from eduAPI.utils.const import BANNER_MAX
 
 
 class BannerAPIView(ListAPIView):
