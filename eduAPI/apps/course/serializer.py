@@ -12,7 +12,7 @@ class CourseCategorySerializer(ModelSerializer):
 class TeacherModelSerializer(ModelSerializer):
     class Meta:
         model = models.Teacher
-        fields = ["id", "name", "title", "signature"]
+        fields = ["id", "name", "title", "signature", "brief"]
 
 
 class CourseModelSerializer(ModelSerializer):
@@ -26,6 +26,27 @@ class CourseModelSerializer(ModelSerializer):
         # lession_list是一个自定义字段,因为在页面的某个课程需要展示一些课时
         # 而在model类中课时的外键就是课程,
 
+
 class CourseDetailModelSerializer(ModelSerializer):
+    teacher = TeacherModelSerializer()
     """提供课程详情所需的信息"""
-    pass
+
+    class Meta:
+        model = models.Course
+        fields = ('id', 'name', 'course_img', 'students', 'lessons', 'pub_lessons', 'price',
+                  'teacher', 'level_name', 'course_video')
+
+
+class CourseLessonSerializer(ModelSerializer):
+    class Meta:
+        model = models.CourseLesson
+        fields = ('id', 'name', 'free_trail')
+
+
+class CourseChapterSerializer(ModelSerializer):
+    # 一对多需要True
+    coursesections = CourseLessonSerializer(many=True)
+
+    class Meta:
+        model = models.CourseChapter
+        fields = ('id', 'chapter', 'name', 'coursesections')

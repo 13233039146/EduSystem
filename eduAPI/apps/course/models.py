@@ -37,6 +37,7 @@ class Course(BaseModel):
         (1, '下线'),
         (2, '预上线'),
     )
+    course_video = models.FileField(upload_to="video", null=True, blank=True, verbose_name="视频")
     name = models.CharField(max_length=128, verbose_name="课程名称")
     course_img = models.ImageField(upload_to="course", max_length=255, verbose_name="封面图片", blank=True, null=True)
     course_type = models.SmallIntegerField(choices=course_type, default=0, verbose_name="付费类型")
@@ -62,6 +63,11 @@ class Course(BaseModel):
 
     def __str__(self):
         return "%s" % self.name
+
+    # 自定义课程难度
+    @property
+    def level_name(self):
+        return self.level_choices[self.level][1]
 
     @property
     def lesson_list(self):

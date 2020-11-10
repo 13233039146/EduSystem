@@ -8,3 +8,5 @@ SEND_MSG_URL = 'https://sms.yunpian.com/v2/sms/single_send.json'
 SSM_ALIVE_TIME = 60 * 60
 # 每60s获取一次验证码
 GET_SSM_SPACE_TIME = 60
+
+IMG_SRC = 'http://api.baizhiedu.net:8000'

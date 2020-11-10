@@ -1973,3 +1973,1257 @@ WARNING 2020-11-09 22:26:41,432 basehttp 124 "GET /static/xadmin/vendor/select2/
 WARNING 2020-11-09 22:26:41,476 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
 WARNING 2020-11-09 22:26:44,280 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
 WARNING 2020-11-09 22:26:44,281 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:32:12,341 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:32:12,350 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:34:06,294 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:34:06,295 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:38:52,609 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:38:52,609 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:38:54,900 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:38:54,900 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:40:06,249 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:40:06,249 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:40:25,632 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:40:25,633 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:40:32,442 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-10 16:40:32,445 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:40:32,446 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1828
+WARNING 2020-11-10 16:40:32,447 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:40:33,204 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-10 16:40:33,204 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1828
+WARNING 2020-11-10 16:40:54,410 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:40:54,411 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:41:43,726 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:41:43,727 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:42:15,107 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:42:15,108 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:42:16,514 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:42:16,514 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:42:33,206 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:42:33,207 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:44:06,035 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:44:06,035 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:46:03,583 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:46:03,583 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:46:47,232 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:46:47,253 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:49:44,160 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:49:44,161 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:50:23,923 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:50:23,925 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:50:51,977 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:50:51,978 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:51:07,209 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:51:07,210 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:51:11,847 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:51:11,849 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:51:11,852 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-10 16:51:11,852 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1828
+WARNING 2020-11-10 16:52:00,282 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:52:00,282 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:52:59,717 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:52:59,718 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:53:03,964 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:53:03,965 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:53:07,916 base 93 Not Found: /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg
+WARNING 2020-11-10 16:53:07,920 base 93 Not Found: /media/course/788dbf38-076d-4d1e-b7cc-4b69a5abbf35.png
+WARNING 2020-11-10 16:53:07,920 basehttp 124 "GET /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:53:07,921 basehttp 124 "GET /media/course/788dbf38-076d-4d1e-b7cc-4b69a5abbf35.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:53:10,098 base 93 Not Found: /media/course/course-cover.jpeg
+WARNING 2020-11-10 16:53:10,100 basehttp 124 "GET /media/course/course-cover.jpeg HTTP/1.1" 404 1861
+WARNING 2020-11-10 16:53:30,278 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:53:30,279 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:53:32,350 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:53:32,351 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:53:52,697 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:53:52,698 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:54:40,099 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:54:40,100 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:55:13,710 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:55:13,711 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:55:20,320 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:55:20,320 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:55:54,409 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:55:54,410 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:56:22,533 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:56:22,534 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:59:55,140 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:59:55,140 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 16:59:57,342 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 16:59:57,343 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:04:11,714 base 93 Not Found: /course/detail/29
+WARNING 2020-11-10 17:04:11,715 basehttp 124 "GET /course/detail/29 HTTP/1.1" 404 2655
+WARNING 2020-11-10 17:11:05,298 base 93 Not Found: /course/lesson/1
+WARNING 2020-11-10 17:11:05,300 basehttp 124 "GET /course/lesson/1 HTTP/1.1" 404 2652
+ERROR 2020-11-10 17:13:03,259 exception 118 Internal Server Error: /course/detail/3/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\generics.py", line 208, in get
+    return self.retrieve(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\mixins.py", line 56, in retrieve
+    return Response(serializer.data)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 511, in to_representation
+    for field in fields:
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 372, in _readable_fields
+    for field in self.fields.values():
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\utils\functional.py", line 36, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 360, in fields
+    for key, value in self.get_fields().items():
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 1047, in get_fields
+    source, info, model, depth
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 1192, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 1309, in build_unknown_field
+    (field_name, model_class.__name__)
+django.core.exceptions.ImproperlyConfigured: Field name `course_img` is not valid for model `CourseChapter`.
+ERROR 2020-11-10 17:13:03,380 basehttp 124 "GET /course/detail/3/ HTTP/1.1" 500 22099
+ERROR 2020-11-10 17:14:15,881 exception 118 Internal Server Error: /course/detail/3/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\generics.py", line 208, in get
+    return self.retrieve(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\mixins.py", line 56, in retrieve
+    return Response(serializer.data)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 511, in to_representation
+    for field in fields:
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 372, in _readable_fields
+    for field in self.fields.values():
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\utils\functional.py", line 36, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 360, in fields
+    for key, value in self.get_fields().items():
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 1047, in get_fields
+    source, info, model, depth
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 1192, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 1309, in build_unknown_field
+    (field_name, model_class.__name__)
+django.core.exceptions.ImproperlyConfigured: Field name `course_img` is not valid for model `CourseChapter`.
+ERROR 2020-11-10 17:14:15,913 basehttp 124 "GET /course/detail/3/ HTTP/1.1" 500 22099
+ERROR 2020-11-10 17:24:16,690 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-10 17:24:16,785 basehttp 124 "GET / HTTP/1.1" 400 70874
+ERROR 2020-11-10 17:24:17,016 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-10 17:24:17,055 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 70787
+WARNING 2020-11-10 17:24:35,245 base 93 Not Found: /favicon.ico
+WARNING 2020-11-10 17:24:35,246 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2423
+WARNING 2020-11-10 17:24:44,168 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-10 17:24:44,171 base 93 Not Found: /media/teacher/logo2x.png
+WARNING 2020-11-10 17:24:44,172 basehttp 124 "GET /media/teacher/logo2x.png HTTP/1.1" 404 1843
+WARNING 2020-11-10 17:24:44,203 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-10 17:25:40,499 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:25:40,500 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:28:21,667 base 93 Not Found: /course/chapter/
+WARNING 2020-11-10 17:28:21,668 basehttp 124 "GET /course/chapter/ HTTP/1.1" 404 2828
+WARNING 2020-11-10 17:28:21,697 base 93 Not Found: /course/chapter/
+WARNING 2020-11-10 17:28:21,698 basehttp 124 "GET /course/chapter/ HTTP/1.1" 404 2828
+WARNING 2020-11-10 17:38:57,854 base 93 Not Found: /course/chapter/
+WARNING 2020-11-10 17:38:57,854 basehttp 124 "GET /course/chapter/ HTTP/1.1" 404 2989
+ERROR 2020-11-10 17:39:17,024 exception 118 Internal Server Error: /course/chapter/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django_filters\rest_framework\backends.py", line 90, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django_filters\rest_framework\backends.py", line 31, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django_filters\rest_framework\backends.py", line 73, in get_filterset_class
+    class AutoFilterSet(self.filterset_base):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django_filters\filterset.py", line 71, in __new__
+    new_class.base_filters = new_class.get_filters()
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django_filters\filterset.py", line 352, in get_filters
+    "%s" % ', '.join(undefined)
+TypeError: 'Meta.fields' contains fields that are not defined on this FilterSet: c, o, u, r, s, e
+ERROR 2020-11-10 17:39:17,212 basehttp 124 "GET /course/chapter/ HTTP/1.1" 500 21757
+WARNING 2020-11-10 17:40:34,228 base 93 Not Found: /course/chapter/1
+WARNING 2020-11-10 17:40:34,229 basehttp 124 "GET /course/chapter/1 HTTP/1.1" 404 2993
+WARNING 2020-11-10 17:40:42,592 base 93 Not Found: /course/chapter/course=1
+WARNING 2020-11-10 17:40:42,593 basehttp 124 "GET /course/chapter/course=1 HTTP/1.1" 404 3016
+ERROR 2020-11-10 17:40:47,207 exception 118 Internal Server Error: /course/chapter/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django_filters\rest_framework\backends.py", line 90, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django_filters\rest_framework\backends.py", line 31, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django_filters\rest_framework\backends.py", line 73, in get_filterset_class
+    class AutoFilterSet(self.filterset_base):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django_filters\filterset.py", line 71, in __new__
+    new_class.base_filters = new_class.get_filters()
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django_filters\filterset.py", line 352, in get_filters
+    "%s" % ', '.join(undefined)
+TypeError: 'Meta.fields' contains fields that are not defined on this FilterSet: c, o, u, r, s, e
+ERROR 2020-11-10 17:40:47,344 basehttp 124 "GET /course/chapter/?course=1 HTTP/1.1" 500 21775
+WARNING 2020-11-10 17:42:27,953 base 93 Not Found: /course/chapter/id=1
+WARNING 2020-11-10 17:42:27,954 basehttp 124 "GET /course/chapter/id=1 HTTP/1.1" 404 3004
+ERROR 2020-11-10 17:47:16,706 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 500 59
+WARNING 2020-11-10 17:53:27,502 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:53:27,503 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:53:28,755 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:53:28,759 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:54:43,467 basehttp 124 "GET /course/chapter/?course=28/ HTTP/1.1" 400 86
+WARNING 2020-11-10 17:54:43,472 basehttp 124 "GET /course/chapter/?course=29/ HTTP/1.1" 400 86
+WARNING 2020-11-10 17:54:43,493 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:54:43,494 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:54:44,300 basehttp 124 "GET /course/chapter/?course=28/ HTTP/1.1" 400 86
+WARNING 2020-11-10 17:54:44,327 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:54:44,328 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:55:04,643 basehttp 124 "GET /course/chapter/?course=28/ HTTP/1.1" 400 86
+WARNING 2020-11-10 17:55:04,748 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:55:04,749 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:55:31,566 basehttp 124 "GET /course/chapter/?course=1/ HTTP/1.1" 400 86
+WARNING 2020-11-10 17:55:31,624 basehttp 124 "GET /course/chapter/?course=1/ HTTP/1.1" 400 86
+WARNING 2020-11-10 17:55:31,642 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:55:31,643 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:55:38,046 basehttp 124 "GET /course/chapter/?course=1/ HTTP/1.1" 400 86
+WARNING 2020-11-10 17:55:38,135 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:55:38,136 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:56:03,461 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:56:03,462 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:56:38,288 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:56:38,288 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:56:40,940 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:56:40,942 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:57:02,063 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:57:02,064 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:57:05,598 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:57:05,599 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:57:31,987 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:57:31,988 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:57:36,547 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:57:36,548 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:57:37,379 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:57:37,380 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:57:50,428 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:57:50,429 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:58:04,218 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:58:04,219 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:58:06,410 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 17:58:06,412 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-10 17:58:06,413 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:58:06,413 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1828
+WARNING 2020-11-10 17:58:06,933 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-10 17:58:06,934 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1828
+WARNING 2020-11-10 17:58:07,370 base 93 Not Found: /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg
+WARNING 2020-11-10 17:58:07,370 basehttp 124 "GET /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:58:08,826 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-10 17:58:08,827 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1828
+WARNING 2020-11-10 17:58:09,474 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-10 17:58:09,476 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:58:09,478 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1828
+WARNING 2020-11-10 17:58:09,479 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:58:11,606 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-10 17:58:11,607 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1828
+WARNING 2020-11-10 17:58:13,525 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:58:13,526 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:58:14,394 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:58:14,395 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-10 17:58:14,396 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:58:14,396 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1828
+WARNING 2020-11-10 17:58:16,597 base 93 Not Found: /media/course/9000eeed-b0af-4df4-b6fb-c2becfcc5b18.jpg
+WARNING 2020-11-10 17:58:16,598 basehttp 124 "GET /media/course/9000eeed-b0af-4df4-b6fb-c2becfcc5b18.jpg HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:58:18,743 base 93 Not Found: /media/course/788dbf38-076d-4d1e-b7cc-4b69a5abbf35.png
+WARNING 2020-11-10 17:58:18,746 base 93 Not Found: /media/course/74e724d3-5ee5-40aa-a4bf-98f866ca15ab.jpg
+WARNING 2020-11-10 17:58:18,746 basehttp 124 "GET /media/course/788dbf38-076d-4d1e-b7cc-4b69a5abbf35.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:58:18,746 basehttp 124 "GET /media/course/74e724d3-5ee5-40aa-a4bf-98f866ca15ab.jpg HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:58:20,383 base 93 Not Found: /media/course/a3dd8fd0-d395-4566-a573-a0e3f60d5f85.jpg
+WARNING 2020-11-10 17:58:20,383 basehttp 124 "GET /media/course/a3dd8fd0-d395-4566-a573-a0e3f60d5f85.jpg HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:58:21,260 base 93 Not Found: /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg
+WARNING 2020-11-10 17:58:21,261 basehttp 124 "GET /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:58:24,473 base 93 Not Found: /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg
+WARNING 2020-11-10 17:58:24,473 basehttp 124 "GET /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:58:25,935 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 17:58:25,936 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 17:58:27,306 base 93 Not Found: /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg
+WARNING 2020-11-10 17:58:27,307 basehttp 124 "GET /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg HTTP/1.1" 404 1930
+ERROR 2020-11-10 18:11:28,799 exception 118 Internal Server Error: /course/detail/1/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\generics.py", line 208, in get
+    return self.retrieve(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\mixins.py", line 56, in retrieve
+    return Response(serializer.data)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 511, in to_representation
+    for field in fields:
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 372, in _readable_fields
+    for field in self.fields.values():
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\utils\functional.py", line 36, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 360, in fields
+    for key, value in self.get_fields().items():
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 1047, in get_fields
+    source, info, model, depth
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 1192, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 1309, in build_unknown_field
+    (field_name, model_class.__name__)
+django.core.exceptions.ImproperlyConfigured: Field name `course_video` is not valid for model `Course`.
+ERROR 2020-11-10 18:11:28,914 basehttp 124 "GET /course/detail/1/ HTTP/1.1" 500 22089
+WARNING 2020-11-10 18:13:03,657 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-10 18:13:23,250 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-10 18:13:23,288 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-10 19:21:24,623 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:21:24,634 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:25:32,394 base 93 Not Found: /course/detail/0/
+WARNING 2020-11-10 19:25:32,395 basehttp 124 "GET /course/chapter/?course=0 HTTP/1.1" 400 86
+WARNING 2020-11-10 19:25:32,395 basehttp 124 "GET /course/detail/0/ HTTP/1.1" 404 23
+WARNING 2020-11-10 19:25:32,407 basehttp 124 "GET /course/chapter/?course=0 HTTP/1.1" 400 86
+WARNING 2020-11-10 19:25:32,408 base 93 Not Found: /course/detail/0/
+WARNING 2020-11-10 19:25:32,409 basehttp 124 "GET /course/detail/0/ HTTP/1.1" 404 23
+ERROR 2020-11-10 19:27:04,089 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-10 19:27:04,228 basehttp 124 "GET / HTTP/1.1" 400 71153
+ERROR 2020-11-10 19:27:04,525 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-10 19:27:04,583 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 71066
+ERROR 2020-11-10 19:27:42,558 exception 118 Internal Server Error: /admin/user/usermsg/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.IntegrityError: (1062, "Duplicate entry '' for key 'phone'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\xadmin\sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\xadmin\sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\xadmin\views\base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\utils\decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\utils\decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\xadmin\views\edit.py", line 292, in post
+    self.save_models()
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\xadmin\views\edit.py", line 267, in save_models
+    self.new_obj.save()
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\contrib\auth\base_user.py", line 73, in save
+    super().save(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\models\base.py", line 729, in save
+    force_update=force_update, update_fields=update_fields)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\models\base.py", line 759, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\models\base.py", line 842, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\models\base.py", line 880, in _do_insert
+    using=using, raw=raw)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\models\query.py", line 1125, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\models\sql\compiler.py", line 1285, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\backends\utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\backends\utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\backends\utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '' for key 'phone'")
+ERROR 2020-11-10 19:27:42,779 basehttp 124 "POST /admin/user/usermsg/add/ HTTP/1.1" 500 257487
+WARNING 2020-11-10 19:29:08,468 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:29:08,469 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:29:29,105 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:29:29,106 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:29:30,820 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:29:30,821 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:30:29,236 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:30:29,237 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:30:30,149 basehttp 124 "POST /cart/add/ HTTP/1.1" 403 58
+WARNING 2020-11-10 19:30:38,240 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:30:38,240 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:30:41,197 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:30:41,198 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:30:44,043 basehttp 124 "POST /cart/add/ HTTP/1.1" 403 58
+WARNING 2020-11-10 19:31:03,920 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:31:03,921 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:31:06,789 basehttp 124 "POST /cart/add/ HTTP/1.1" 403 58
+WARNING 2020-11-10 19:33:00,104 basehttp 124 "POST /cart/add/ HTTP/1.1" 403 58
+WARNING 2020-11-10 19:33:49,968 basehttp 124 "POST /cart/add/ HTTP/1.1" 403 58
+WARNING 2020-11-10 19:36:08,481 basehttp 124 "POST /cart/add/ HTTP/1.1" 401 35
+WARNING 2020-11-10 19:39:39,242 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:39:39,243 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:39:59,613 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:39:59,614 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:40:03,785 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:40:03,785 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:40:05,480 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:40:05,480 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:40:13,642 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:40:13,642 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:43:58,243 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:43:58,243 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:43:58,554 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:43:58,557 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:44:07,500 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:44:07,501 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:44:07,795 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:44:07,796 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:44:23,608 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:44:23,608 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:44:23,817 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:44:23,818 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:44:30,465 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:44:30,466 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:44:33,157 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:44:33,158 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:44:58,668 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:44:58,669 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:45:02,071 base 93 Not Found: /media/course/course-cover.jpeg
+WARNING 2020-11-10 19:45:02,071 basehttp 124 "GET /media/course/course-cover.jpeg HTTP/1.1" 404 1861
+WARNING 2020-11-10 19:45:10,516 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:45:10,517 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:45:17,050 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:45:17,051 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:45:18,553 base 93 Not Found: /media/course/74e724d3-5ee5-40aa-a4bf-98f866ca15ab.jpg
+WARNING 2020-11-10 19:45:18,559 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 19:45:18,559 basehttp 124 "GET /media/course/74e724d3-5ee5-40aa-a4bf-98f866ca15ab.jpg HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:45:18,560 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:45:20,165 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 19:45:20,165 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:45:24,093 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 19:45:24,094 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:47:32,629 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:47:32,629 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 19:55:59,430 basehttp 124 "POST /cart/add/ HTTP/1.1" 401 35
+WARNING 2020-11-10 19:56:19,190 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 19:56:19,191 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:09:57,695 base 93 Not Found: /cart/show_car/
+WARNING 2020-11-10 20:09:57,696 basehttp 124 "GET /cart/show_car/ HTTP/1.1" 404 2588
+WARNING 2020-11-10 20:10:24,506 basehttp 124 "GET /cart/add/ HTTP/1.1" 401 58
+WARNING 2020-11-10 20:15:17,827 base 93 Not Found: //cart/add/
+WARNING 2020-11-10 20:15:17,828 basehttp 124 "GET //cart/add/ HTTP/1.1" 404 2525
+WARNING 2020-11-10 20:15:21,315 base 93 Not Found: //cart/add/
+WARNING 2020-11-10 20:15:21,317 basehttp 124 "GET //cart/add/ HTTP/1.1" 404 2525
+WARNING 2020-11-10 20:15:45,100 basehttp 124 "GET /cart/add/ HTTP/1.1" 401 35
+WARNING 2020-11-10 20:15:47,419 basehttp 124 "GET /cart/add/ HTTP/1.1" 401 35
+WARNING 2020-11-10 20:16:04,814 basehttp 124 "GET /cart/add/ HTTP/1.1" 401 35
+WARNING 2020-11-10 20:16:56,777 basehttp 124 "GET /cart/add/ HTTP/1.1" 401 35
+WARNING 2020-11-10 20:17:16,419 basehttp 124 "GET /cart/add/ HTTP/1.1" 401 35
+WARNING 2020-11-10 20:17:24,511 basehttp 124 "GET /cart/add/ HTTP/1.1" 401 35
+WARNING 2020-11-10 20:17:25,330 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:17:25,332 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:17:28,528 basehttp 124 "POST /cart/add/ HTTP/1.1" 401 35
+ERROR 2020-11-10 20:17:47,983 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 62, in show_car
+    for course_id, expire_id in cart_list_bytes:
+ValueError: not enough values to unpack (expected 2, got 1)
+ERROR 2020-11-10 20:17:48,046 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 21086
+ERROR 2020-11-10 20:18:37,009 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 62, in show_car
+    for course_id, expire_id in cart_list_bytes:
+ValueError: not enough values to unpack (expected 2, got 1)
+ERROR 2020-11-10 20:18:37,037 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 21086
+ERROR 2020-11-10 20:19:38,089 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 62, in show_car
+    for course_id, expire_id in cart_list_bytes:
+ValueError: not enough values to unpack (expected 2, got 1)
+ERROR 2020-11-10 20:19:38,128 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 21086
+ERROR 2020-11-10 20:22:06,454 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 63, in show_car
+    for course_id, expire_id in cart_list_bytes:
+ValueError: not enough values to unpack (expected 2, got 1)
+ERROR 2020-11-10 20:22:06,473 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 20708
+ERROR 2020-11-10 20:22:23,459 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 63, in show_car
+    for course_id, expire_id in cart_list_bytes:
+ValueError: not enough values to unpack (expected 2, got 1)
+ERROR 2020-11-10 20:22:23,480 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 20708
+ERROR 2020-11-10 20:22:36,461 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 63, in show_car
+    for course_id, expire_id in cart_list_bytes:
+ValueError: not enough values to unpack (expected 2, got 1)
+ERROR 2020-11-10 20:22:36,484 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 20708
+ERROR 2020-11-10 20:23:16,170 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 156, in _get_response
+    response = response.render()
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\renderers.py", line 104, in render
+    allow_nan=not self.strict, separators=separators
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\utils\encoders.py", line 50, in default
+    return obj.decode()
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+ERROR 2020-11-10 20:23:16,302 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 116176
+ERROR 2020-11-10 20:23:49,175 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 156, in _get_response
+    response = response.render()
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\renderers.py", line 104, in render
+    allow_nan=not self.strict, separators=separators
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\utils\encoders.py", line 50, in default
+    return obj.decode()
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+ERROR 2020-11-10 20:23:49,251 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 116176
+ERROR 2020-11-10 20:25:04,474 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 156, in _get_response
+    response = response.render()
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\renderers.py", line 104, in render
+    allow_nan=not self.strict, separators=separators
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\utils\encoders.py", line 50, in default
+    return obj.decode()
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+ERROR 2020-11-10 20:25:04,545 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 116176
+ERROR 2020-11-10 20:25:32,271 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 156, in _get_response
+    response = response.render()
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\renderers.py", line 104, in render
+    allow_nan=not self.strict, separators=separators
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\utils\encoders.py", line 50, in default
+    return obj.decode()
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+ERROR 2020-11-10 20:25:32,355 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 116176
+WARNING 2020-11-10 20:29:42,974 basehttp 124 "GET /cart/add/ HTTP/1.1" 401 35
+WARNING 2020-11-10 20:30:06,709 basehttp 124 "GET /cart/add/ HTTP/1.1" 401 35
+WARNING 2020-11-10 20:30:22,317 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:30:22,318 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:44:32,595 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 20:44:32,597 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:44:32,597 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:44:32,598 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:44:34,633 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:44:34,637 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 20:44:34,638 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:44:34,639 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:45:51,084 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:45:51,086 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 20:45:51,087 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:45:51,088 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:47:13,457 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:47:13,462 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 20:47:13,462 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:47:13,463 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:47:39,970 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:47:39,974 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 20:47:39,974 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:47:39,975 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:48:32,545 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:48:32,548 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 20:48:32,548 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:48:32,549 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:50:05,729 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:50:05,730 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:50:05,732 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 20:50:05,733 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:50:17,106 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:50:17,108 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 20:50:17,108 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:50:17,109 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:50:19,088 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:50:19,090 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 20:50:19,091 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:50:19,091 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:53:17,465 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:53:17,466 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:53:17,469 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 20:53:17,471 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:54:21,349 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:54:21,352 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:54:21,354 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 20:54:21,354 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:56:07,624 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:56:07,628 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 20:56:07,628 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:56:07,629 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:56:17,502 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:56:17,505 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 20:56:17,505 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:56:17,506 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:57:24,150 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:57:24,154 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 20:57:24,154 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:57:24,155 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:58:35,815 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:58:35,817 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:58:35,819 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 20:58:35,820 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:58:37,151 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:58:37,153 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 20:58:37,154 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:58:37,154 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:59:15,669 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 20:59:15,672 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 20:59:15,673 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 20:59:15,673 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:00:06,141 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:00:06,143 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 21:00:06,143 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:00:06,144 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:00:08,433 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:00:08,438 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 21:00:08,438 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:00:08,440 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:04:20,525 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:04:20,527 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 21:04:20,528 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:04:20,528 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:06:25,707 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:06:25,709 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 21:06:25,710 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:06:25,711 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+ERROR 2020-11-10 21:15:11,128 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 97, in change_select
+    if int(selected_list_bytes) == course_selected:
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'set'
+ERROR 2020-11-10 21:15:11,224 basehttp 124 "PATCH /cart/add/ HTTP/1.1" 500 20788
+ERROR 2020-11-10 21:16:58,867 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 97, in change_select
+    if selected_list_bytes.sismember(bytes(course_selected)):
+AttributeError: 'set' object has no attribute 'sismember'
+ERROR 2020-11-10 21:16:58,884 basehttp 124 "PATCH /cart/add/ HTTP/1.1" 500 20736
+ERROR 2020-11-10 21:17:35,345 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 97, in change_select
+    if conn.sismember(bytes(course_selected)):
+TypeError: sismember() missing 1 required positional argument: 'value'
+ERROR 2020-11-10 21:17:35,361 basehttp 124 "PATCH /cart/add/ HTTP/1.1" 500 20747
+ERROR 2020-11-10 21:17:48,563 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 97, in change_select
+    if conn.sismember(selected_list_bytes,bytes(course_selected)):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\client.py", line 2277, in sismember
+    return self.execute_command('SISMEMBER', name, value)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\client.py", line 900, in execute_command
+    conn.send_command(*args)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\connection.py", line 725, in send_command
+    self.send_packed_command(self.pack_command(*args),
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\connection.py", line 775, in pack_command
+    for arg in imap(self.encoder.encode, args):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\connection.py", line 120, in encode
+    "bytes, string, int or float first." % typename)
+redis.exceptions.DataError: Invalid input of type: 'set'. Convert to a bytes, string, int or float first.
+ERROR 2020-11-10 21:17:48,606 basehttp 124 "PATCH /cart/add/ HTTP/1.1" 500 21607
+ERROR 2020-11-10 21:18:10,453 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 97, in change_select
+    if conn.sismember(selected_list_bytes,1):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\client.py", line 2277, in sismember
+    return self.execute_command('SISMEMBER', name, value)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\client.py", line 900, in execute_command
+    conn.send_command(*args)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\connection.py", line 725, in send_command
+    self.send_packed_command(self.pack_command(*args),
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\connection.py", line 775, in pack_command
+    for arg in imap(self.encoder.encode, args):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\connection.py", line 120, in encode
+    "bytes, string, int or float first." % typename)
+redis.exceptions.DataError: Invalid input of type: 'set'. Convert to a bytes, string, int or float first.
+ERROR 2020-11-10 21:18:10,474 basehttp 124 "PATCH /cart/add/ HTTP/1.1" 500 21586
+ERROR 2020-11-10 21:20:26,373 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 97, in change_select
+    if bytes(str((course_selected))) in selected_list_bytes:
+TypeError: string argument without an encoding
+ERROR 2020-11-10 21:20:26,390 basehttp 124 "PATCH /cart/add/ HTTP/1.1" 500 20713
+ERROR 2020-11-10 21:23:17,429 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 96, in change_select
+    conn.sadd(selected_list_bytes,bytes(course_id))
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\client.py", line 2243, in sadd
+    return self.execute_command('SADD', name, *values)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\client.py", line 900, in execute_command
+    conn.send_command(*args)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\connection.py", line 725, in send_command
+    self.send_packed_command(self.pack_command(*args),
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\connection.py", line 775, in pack_command
+    for arg in imap(self.encoder.encode, args):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\connection.py", line 120, in encode
+    "bytes, string, int or float first." % typename)
+redis.exceptions.DataError: Invalid input of type: 'set'. Convert to a bytes, string, int or float first.
+ERROR 2020-11-10 21:23:17,451 basehttp 124 "PATCH /cart/add/ HTTP/1.1" 500 21588
+ERROR 2020-11-10 21:25:43,690 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 97, in change_select
+    conn.sadd(selected_list_bytes,bytes(course_id))
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\client.py", line 2243, in sadd
+    return self.execute_command('SADD', name, *values)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\client.py", line 900, in execute_command
+    conn.send_command(*args)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\connection.py", line 725, in send_command
+    self.send_packed_command(self.pack_command(*args),
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\connection.py", line 775, in pack_command
+    for arg in imap(self.encoder.encode, args):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\redis\connection.py", line 120, in encode
+    "bytes, string, int or float first." % typename)
+redis.exceptions.DataError: Invalid input of type: 'set'. Convert to a bytes, string, int or float first.
+ERROR 2020-11-10 21:25:43,717 basehttp 124 "PATCH /cart/add/ HTTP/1.1" 500 21588
+WARNING 2020-11-10 21:35:18,871 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 21:35:18,873 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:35:18,874 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:35:18,874 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:35:32,198 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:35:32,201 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 21:35:32,201 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:35:32,202 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:36:15,952 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:36:15,957 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 21:36:15,958 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:36:15,958 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:38:26,169 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:38:26,173 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 21:38:26,174 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:38:26,174 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:44:36,497 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 21:44:36,500 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:44:36,507 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:44:36,508 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:44:38,976 base 93 Not Found: /car/add/
+WARNING 2020-11-10 21:44:38,977 basehttp 124 "DELETE /car/add/ HTTP/1.1" 404 2522
+WARNING 2020-11-10 21:44:40,175 base 93 Not Found: /car/add/
+WARNING 2020-11-10 21:44:40,176 basehttp 124 "DELETE /car/add/ HTTP/1.1" 404 2522
+WARNING 2020-11-10 21:44:43,833 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:44:43,837 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 21:44:43,837 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:44:43,838 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:45:21,875 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:45:21,880 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 21:45:21,880 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:45:21,881 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:45:23,079 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 21:45:23,081 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:45:23,082 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:45:23,082 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:45:24,109 base 93 Not Found: /car/add/
+WARNING 2020-11-10 21:45:24,109 basehttp 124 "DELETE /car/add/ HTTP/1.1" 404 2522
+WARNING 2020-11-10 21:45:30,398 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:45:30,403 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 21:45:30,403 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:45:30,404 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:45:48,311 base 93 Not Found: /car/add/
+WARNING 2020-11-10 21:45:48,311 basehttp 124 "DELETE /car/add/ HTTP/1.1" 404 2522
+WARNING 2020-11-10 21:46:09,475 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 21:46:09,477 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:46:09,477 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:46:09,478 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:46:12,865 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:46:12,869 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 21:46:12,870 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:46:12,870 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:46:25,736 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 21:46:25,737 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:47:22,641 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 21:47:22,642 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:47:25,305 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-10 21:47:25,306 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:47:33,350 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:47:33,351 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:47:36,736 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:47:36,740 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:47:38,605 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:47:38,606 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:47:40,833 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:47:40,834 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:49:03,511 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:49:03,512 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:49:05,243 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:49:05,244 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+ERROR 2020-11-10 21:52:11,283 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 59
+ERROR 2020-11-10 21:52:26,139 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 59
+WARNING 2020-11-10 21:56:32,580 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:56:32,581 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:56:39,902 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:56:39,903 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:56:41,558 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:56:41,559 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:56:43,680 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:56:43,685 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:56:55,829 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:56:55,832 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+ERROR 2020-11-10 21:56:58,186 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 59
+WARNING 2020-11-10 21:56:59,146 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:56:59,149 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:57:12,607 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:57:12,609 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+ERROR 2020-11-10 21:57:19,035 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 59
+WARNING 2020-11-10 21:57:19,854 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:57:19,857 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:57:31,846 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:57:31,847 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+ERROR 2020-11-10 21:57:36,396 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 59
+WARNING 2020-11-10 21:57:37,891 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:57:37,896 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:57:43,805 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:57:43,806 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:58:05,810 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:58:05,811 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-10 21:58:07,994 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-10 21:58:07,994 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930

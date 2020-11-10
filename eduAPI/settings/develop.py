@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'index',  # app挂载
     'user',
     'course',
+    'cart',
 ]
 
 MIDDLEWARE = [
@@ -139,12 +140,18 @@ MEDIA_URL = "/media/"
 REST_FRAMEWORK = {
     # DRF配置的全局异常处理的方法
     'EXCEPTION_HANDLER': 'eduAPI.utils.exceptions.exception_handler',
+    # 添加认证方式
+    'DEFAULT_AUTHENTICATION_CLASSES': [
+        'rest_framework_jwt.authentication.JSONWebTokenAuthentication',
+        'rest_framework.authentication.SessionAuthentication',
+        'rest_framework.authentication.BasicAuthentication',
+    ],
 }
 
 # JWT配置
 JWT_AUTH = {
     # token有效期时间
-    'JWT_EXPIRATION_DELTA': datetime.timedelta(seconds=300),
+    'JWT_EXPIRATION_DELTA': datetime.timedelta(seconds=30000),
     # 自定义jwt返回值
     'JWT_RESPONSE_PAYLOAD_HANDLER':
         'user.login_handler.jwt_response_payload_handler',
@@ -225,6 +232,15 @@ CACHES = {
         "BACKEND": "django_redis.cache.RedisCache",
         # 连接的redis的库
         "LOCATION": "redis://127.0.0.1:6379/2",
+        "OPTIONS": {
+            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+        }
+    },
+    # 购物车
+    "cart": {
+        "BACKEND": "django_redis.cache.RedisCache",
+        # 连接的redis的库
+        "LOCATION": "redis://127.0.0.1:6379/3",
         "OPTIONS": {
             "CLIENT_CLASS": "django_redis.client.DefaultClient",
         }
