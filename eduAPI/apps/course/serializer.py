@@ -22,7 +22,7 @@ class CourseModelSerializer(ModelSerializer):
     class Meta:
         model = models.Course
         fields = ("id", "name", "course_img", "students", "lessons", "pub_lessons", "price",
-                  "teacher", "lesson_list")
+                  "teacher", "lesson_list",'discount_name', 'real_price')
         # lession_list是一个自定义字段,因为在页面的某个课程需要展示一些课时
         # 而在model类中课时的外键就是课程,
 
@@ -34,7 +34,7 @@ class CourseDetailModelSerializer(ModelSerializer):
     class Meta:
         model = models.Course
         fields = ('id', 'name', 'course_img', 'students', 'lessons', 'pub_lessons', 'price',
-                  'teacher', 'level_name', 'course_video')
+                  'teacher', 'level_name', 'course_video', 'real_price', 'expire_time')
 
 
 class CourseLessonSerializer(ModelSerializer):

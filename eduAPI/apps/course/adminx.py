@@ -39,3 +39,12 @@ class TeacherModelAdmin(object):
 
 
 xadmin.site.register(models.Teacher, TeacherModelAdmin)
+
+# 课程优惠相关
+xadmin.site.register(models.CourseDiscountType)
+xadmin.site.register(models.CourseDiscount)
+xadmin.site.register(models.Activity)
+xadmin.site.register(models.CoursePriceDiscount)
+xadmin.site.register(models.CourseExpire)
+
+

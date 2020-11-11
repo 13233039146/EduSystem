@@ -3227,3 +3227,605 @@ WARNING 2020-11-10 21:58:05,810 base 93 Not Found: /media/course/25b934c3-ade0-4
 WARNING 2020-11-10 21:58:05,811 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
 WARNING 2020-11-10 21:58:07,994 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
 WARNING 2020-11-10 21:58:07,994 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:18:35,872 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:18:35,881 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:18:37,976 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:18:37,978 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:18:42,258 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:18:42,262 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:18:45,183 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:18:45,184 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:18:57,386 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:18:57,387 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:18:58,634 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:18:58,635 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:21:02,079 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:21:02,081 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:22:45,403 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:22:45,403 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:24:52,389 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:24:52,389 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:26:53,190 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:26:53,191 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:27:13,857 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:27:13,858 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:29:19,716 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:29:19,716 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:29:50,322 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:29:50,322 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:30:12,205 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:30:12,205 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:32:42,176 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:32:42,177 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:36:05,058 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:36:05,059 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:36:11,466 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:36:11,467 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:36:25,412 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:36:25,412 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:36:29,138 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:36:29,141 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:36:30,255 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:36:30,255 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:36:32,021 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:36:32,021 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:37:04,266 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:37:04,267 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:37:06,397 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:37:06,397 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:37:07,085 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:37:07,086 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:38:02,192 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:38:02,192 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:38:02,814 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:38:02,815 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:38:05,970 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:38:05,972 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:38:07,275 base 93 Not Found: /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg
+WARNING 2020-11-11 11:38:07,276 basehttp 124 "GET /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:38:08,420 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-11 11:38:08,421 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1828
+WARNING 2020-11-11 11:38:09,744 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-11 11:38:09,745 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1828
+WARNING 2020-11-11 11:38:10,398 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-11 11:38:10,398 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1828
+WARNING 2020-11-11 11:38:18,015 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:38:18,017 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:38:18,019 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-11 11:38:18,020 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1828
+WARNING 2020-11-11 11:38:21,311 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-11 11:38:21,312 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1828
+WARNING 2020-11-11 11:40:40,571 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:40:40,573 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:40:55,025 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:40:55,026 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:44:02,013 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:44:02,014 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:44:05,035 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:44:05,036 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:44:05,958 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:44:05,958 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:44:08,518 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:44:08,519 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:44:09,523 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:44:09,523 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:44:10,542 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:44:10,542 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:44:16,236 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:44:16,236 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:45:18,239 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:45:18,240 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:45:22,392 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:45:22,392 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:45:23,687 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:45:23,688 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:45:25,455 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:45:25,456 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:45:26,291 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:45:26,291 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:46:28,442 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:46:28,443 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:46:29,897 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:46:29,898 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:46:38,468 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:46:38,469 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:46:57,469 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:46:57,471 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:46:58,791 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:46:58,791 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:47:01,702 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:47:01,703 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:47:11,168 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:47:11,169 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:47:12,529 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:47:12,530 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:47:16,554 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:47:16,555 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:47:19,920 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:47:19,920 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:47:25,091 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:47:25,092 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:50:28,470 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:50:28,474 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:50:30,353 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:50:30,354 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 11:50:34,495 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 11:50:34,496 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 16:57:19,613 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 16:57:19,614 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+WARNING 2020-11-11 16:57:26,325 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 16:57:26,325 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1930
+ERROR 2020-11-11 16:58:47,916 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-11 16:58:48,018 basehttp 124 "GET / HTTP/1.1" 400 71468
+ERROR 2020-11-11 16:58:48,265 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-11 16:58:48,304 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 71381
+WARNING 2020-11-11 16:59:15,698 base 93 Not Found: /favicon.ico
+WARNING 2020-11-11 16:59:15,699 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2528
+ERROR 2020-11-11 16:59:21,839 basehttp 124 "GET /admin/ HTTP/1.1" 500 59
+WARNING 2020-11-11 17:02:31,641 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-11 17:02:31,729 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-11 17:02:46,233 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-11 17:02:46,285 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-11 17:02:52,177 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-11 17:02:52,202 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-11 17:03:08,821 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-11 17:03:08,865 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1767
+WARNING 2020-11-11 17:26:14,455 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 17:26:14,456 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 17:26:22,103 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-11 17:26:22,107 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1823
+WARNING 2020-11-11 17:26:22,108 base 93 Not Found: /media/course/9000eeed-b0af-4df4-b6fb-c2becfcc5b18.jpg
+WARNING 2020-11-11 17:26:22,114 base 93 Not Found: /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg
+WARNING 2020-11-11 17:26:22,115 basehttp 124 "GET /media/course/9000eeed-b0af-4df4-b6fb-c2becfcc5b18.jpg HTTP/1.1" 404 1925
+WARNING 2020-11-11 17:26:22,116 base 93 Not Found: /media/course/788dbf38-076d-4d1e-b7cc-4b69a5abbf35.png
+WARNING 2020-11-11 17:26:22,121 basehttp 124 "GET /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg HTTP/1.1" 404 1925
+WARNING 2020-11-11 17:26:22,124 base 93 Not Found: /media/course/74e724d3-5ee5-40aa-a4bf-98f866ca15ab.jpg
+WARNING 2020-11-11 17:26:22,126 basehttp 124 "GET /media/course/788dbf38-076d-4d1e-b7cc-4b69a5abbf35.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 17:26:22,128 base 93 Not Found: /media/course/a3dd8fd0-d395-4566-a573-a0e3f60d5f85.jpg
+WARNING 2020-11-11 17:26:22,132 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-11 17:26:22,133 basehttp 124 "GET /media/course/74e724d3-5ee5-40aa-a4bf-98f866ca15ab.jpg HTTP/1.1" 404 1925
+WARNING 2020-11-11 17:26:22,134 basehttp 124 "GET /media/course/a3dd8fd0-d395-4566-a573-a0e3f60d5f85.jpg HTTP/1.1" 404 1925
+WARNING 2020-11-11 17:26:22,134 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 17:36:53,188 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 17:36:53,189 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 17:37:31,638 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 17:37:31,639 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 17:38:29,510 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 17:38:29,511 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 17:38:43,308 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 17:38:43,308 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 17:40:48,441 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 17:40:48,442 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 17:50:24,874 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 17:50:24,877 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 17:50:32,266 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-11 17:50:32,270 base 93 Not Found: /media/course/9000eeed-b0af-4df4-b6fb-c2becfcc5b18.jpg
+WARNING 2020-11-11 17:50:32,270 basehttp 124 "GET /media/course/9000eeed-b0af-4df4-b6fb-c2becfcc5b18.jpg HTTP/1.1" 404 1925
+WARNING 2020-11-11 17:50:32,270 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1823
+WARNING 2020-11-11 17:50:34,031 base 93 Not Found: /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg
+WARNING 2020-11-11 17:50:34,033 base 93 Not Found: /media/course/788dbf38-076d-4d1e-b7cc-4b69a5abbf35.png
+WARNING 2020-11-11 17:50:34,033 basehttp 124 "GET /media/course/788dbf38-076d-4d1e-b7cc-4b69a5abbf35.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 17:50:34,033 basehttp 124 "GET /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg HTTP/1.1" 404 1925
+WARNING 2020-11-11 17:50:37,149 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 17:50:37,150 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 17:55:05,002 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 17:55:05,003 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+ERROR 2020-11-11 18:00:53,656 exception 118 Internal Server Error: /course/lesson/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 757, in data
+    ret = super().data
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 675, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\serializers.py", line 513, in to_representation
+    attribute = field.get_attribute(instance)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\fields.py", line 443, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\fields.py", line 93, in get_attribute
+    instance = getattr(instance, attr)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\course\models.py", line 140, in real_price
+    price = old_price - max(sale_list)
+TypeError: unsupported operand type(s) for -: 'float' and 'str'
+ERROR 2020-11-11 18:00:54,030 basehttp 124 "GET /course/lesson/?page=1&size=2&ordering=-id HTTP/1.1" 500 22551
+WARNING 2020-11-11 18:01:33,081 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 18:01:33,082 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 18:02:18,306 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 18:02:18,308 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 18:02:20,202 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-11 18:02:20,205 base 93 Not Found: /media/course/9000eeed-b0af-4df4-b6fb-c2becfcc5b18.jpg
+WARNING 2020-11-11 18:02:20,205 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1823
+WARNING 2020-11-11 18:02:20,206 basehttp 124 "GET /media/course/9000eeed-b0af-4df4-b6fb-c2becfcc5b18.jpg HTTP/1.1" 404 1925
+WARNING 2020-11-11 18:02:22,524 base 93 Not Found: /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg
+WARNING 2020-11-11 18:02:22,525 base 93 Not Found: /media/course/788dbf38-076d-4d1e-b7cc-4b69a5abbf35.png
+WARNING 2020-11-11 18:02:22,526 basehttp 124 "GET /media/course/788dbf38-076d-4d1e-b7cc-4b69a5abbf35.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 18:02:22,526 basehttp 124 "GET /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg HTTP/1.1" 404 1925
+WARNING 2020-11-11 18:02:25,649 base 93 Not Found: /media/course/9000eeed-b0af-4df4-b6fb-c2becfcc5b18.jpg
+WARNING 2020-11-11 18:02:25,650 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-11 18:02:25,652 basehttp 124 "GET /media/course/9000eeed-b0af-4df4-b6fb-c2becfcc5b18.jpg HTTP/1.1" 404 1925
+WARNING 2020-11-11 18:02:25,652 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1823
+WARNING 2020-11-11 18:02:28,028 base 93 Not Found: /media/course/74e724d3-5ee5-40aa-a4bf-98f866ca15ab.jpg
+WARNING 2020-11-11 18:02:28,030 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-11-11 18:02:28,030 basehttp 124 "GET /media/course/74e724d3-5ee5-40aa-a4bf-98f866ca15ab.jpg HTTP/1.1" 404 1925
+WARNING 2020-11-11 18:02:28,031 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 18:02:29,038 base 93 Not Found: /media/course/a3dd8fd0-d395-4566-a573-a0e3f60d5f85.jpg
+WARNING 2020-11-11 18:02:29,040 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-11 18:02:29,040 basehttp 124 "GET /media/course/a3dd8fd0-d395-4566-a573-a0e3f60d5f85.jpg HTTP/1.1" 404 1925
+WARNING 2020-11-11 18:02:29,040 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1823
+WARNING 2020-11-11 18:02:29,930 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-11 18:02:29,931 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1823
+WARNING 2020-11-11 18:02:30,568 base 93 Not Found: /media/course/course-cover.jpeg
+WARNING 2020-11-11 18:02:30,568 basehttp 124 "GET /media/course/course-cover.jpeg HTTP/1.1" 404 1856
+WARNING 2020-11-11 18:05:52,860 base 93 Not Found: /course/detail/
+WARNING 2020-11-11 18:05:52,861 basehttp 124 "GET /course/detail/ HTTP/1.1" 404 3092
+WARNING 2020-11-11 18:11:57,996 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 18:11:57,997 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 18:11:59,496 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 18:11:59,497 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 18:41:52,790 basehttp 124 "GET /cart/add/ HTTP/1.1" 401 58
+WARNING 2020-11-11 18:43:31,841 basehttp 124 "GET /user/login/ HTTP/1.1" 405 40
+WARNING 2020-11-11 18:43:52,742 basehttp 124 "GET /cart/add/ HTTP/1.1" 401 58
+WARNING 2020-11-11 18:44:02,305 basehttp 124 "GET /cart/add/ HTTP/1.1" 401 58
+ERROR 2020-11-11 18:47:38,957 basehttp 124 "GET /index/nav/ HTTP/1.1" 500 59
+ERROR 2020-11-11 18:47:38,975 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 59
+WARNING 2020-11-11 19:01:02,905 basehttp 124 "PUT /cart/add/ HTTP/1.1" 401 58
+WARNING 2020-11-11 19:01:10,375 basehttp 124 "PUT /cart/add/ HTTP/1.1" 401 58
+WARNING 2020-11-11 19:02:08,565 basehttp 124 "PUT /cart/add/ HTTP/1.1" 400 35
+WARNING 2020-11-11 19:02:20,147 basehttp 124 "PUT /cart/add/ HTTP/1.1" 400 35
+WARNING 2020-11-11 19:02:35,326 basehttp 124 "PUT /cart/add/ HTTP/1.1" 400 35
+WARNING 2020-11-11 19:03:27,025 basehttp 124 "PUT /cart/add/ HTTP/1.1" 400 35
+WARNING 2020-11-11 19:14:33,180 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:14:33,184 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:14:39,737 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:14:39,738 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:14:41,087 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:14:41,088 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:14:43,449 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:14:43,450 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:14:44,827 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-11 19:14:44,830 base 93 Not Found: /media/course/9000eeed-b0af-4df4-b6fb-c2becfcc5b18.jpg
+WARNING 2020-11-11 19:14:44,831 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1823
+WARNING 2020-11-11 19:14:44,832 basehttp 124 "GET /media/course/9000eeed-b0af-4df4-b6fb-c2becfcc5b18.jpg HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:14:46,536 base 93 Not Found: /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg
+WARNING 2020-11-11 19:14:46,541 base 93 Not Found: /media/course/788dbf38-076d-4d1e-b7cc-4b69a5abbf35.png
+WARNING 2020-11-11 19:14:46,541 basehttp 124 "GET /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:14:46,543 basehttp 124 "GET /media/course/788dbf38-076d-4d1e-b7cc-4b69a5abbf35.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:14:48,259 base 93 Not Found: /media/course/course-cover.jpeg
+WARNING 2020-11-11 19:14:48,260 basehttp 124 "GET /media/course/course-cover.jpeg HTTP/1.1" 404 1856
+WARNING 2020-11-11 19:14:54,268 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:14:54,269 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:18:32,075 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:18:32,076 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:18:51,568 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:18:51,569 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:19:58,035 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:19:58,036 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:22:27,702 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:22:27,702 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:24:09,921 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:24:09,922 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:24:19,966 basehttp 124 "GET /cart/add/ HTTP/1.1" 401 58
+WARNING 2020-11-11 19:26:17,872 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:26:17,874 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+ERROR 2020-11-11 19:32:08,776 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 156, in _get_response
+    response = response.render()
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\renderers.py", line 104, in render
+    allow_nan=not self.strict, separators=separators
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\utils\encoders.py", line 67, in default
+    return super().default(obj)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'property' is not JSON serializable
+ERROR 2020-11-11 19:32:09,229 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 114676
+ERROR 2020-11-11 19:33:45,760 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 87, in show_car
+    'data': result,'expire_list': json.loads(Course.expire_list),
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\__init__.py", line 348, in loads
+    'not {!r}'.format(s.__class__.__name__))
+TypeError: the JSON object must be str, bytes or bytearray, not 'property'
+ERROR 2020-11-11 19:33:45,921 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 21161
+WARNING 2020-11-11 19:37:02,912 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:37:02,913 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:37:09,420 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:37:09,421 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:39:03,581 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:39:03,581 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:40:59,139 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:40:59,140 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+ERROR 2020-11-11 19:41:01,814 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 156, in _get_response
+    response = response.render()
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\renderers.py", line 104, in render
+    allow_nan=not self.strict, separators=separators
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\utils\encoders.py", line 67, in default
+    return super().default(obj)
+  File "c:\users\wwwe\appdata\local\programs\python\python36\lib\json\encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'DeferredAttribute' is not JSON serializable
+ERROR 2020-11-11 19:41:01,968 basehttp 124 "PUT /cart/add/ HTTP/1.1" 500 109738
+WARNING 2020-11-11 19:41:52,663 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:41:52,665 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:42:31,311 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:42:31,312 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:43:01,596 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:43:01,597 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:44:10,592 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:44:10,593 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:44:16,057 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:44:16,058 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:44:31,164 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:44:31,165 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:44:52,583 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:44:52,584 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:44:54,294 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:44:54,294 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:45:57,150 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:45:57,151 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:46:01,427 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:46:01,428 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:46:42,683 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:46:42,683 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:48:17,255 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:48:17,256 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:48:41,235 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:48:41,236 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:49:17,690 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:49:17,691 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:50:34,359 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:50:34,360 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:52:06,454 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:52:06,454 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:52:23,372 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:52:23,373 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 19:53:24,086 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 19:53:24,086 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:00:07,633 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:00:07,633 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:00:21,188 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:00:21,189 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:00:51,263 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:00:51,264 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+ERROR 2020-11-11 20:09:47,553 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 82, in show_car
+    'price': course.real_price(expire_id),
+TypeError: 'float' object is not callable
+ERROR 2020-11-11 20:09:47,857 basehttp 124 "GET /cart/add/ HTTP/1.1" 500 21079
+WARNING 2020-11-11 20:11:15,428 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:11:15,430 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:11:31,126 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:11:31,127 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:11:31,891 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:11:31,892 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:11:37,692 base 93 Not Found: /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg
+WARNING 2020-11-11 20:11:37,695 basehttp 124 "GET /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:11:37,696 base 93 Not Found: /media/course/788dbf38-076d-4d1e-b7cc-4b69a5abbf35.png
+WARNING 2020-11-11 20:11:37,697 basehttp 124 "GET /media/course/788dbf38-076d-4d1e-b7cc-4b69a5abbf35.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:11:40,264 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-11-11 20:11:40,265 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1823
+WARNING 2020-11-11 20:12:47,224 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:12:47,226 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:12:49,760 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:12:49,760 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+ERROR 2020-11-11 20:12:58,173 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 131, in change_expire
+    course_expire = CourseExpire.objects.get(is_show=True, is_delete=False, pk=expire_id)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\models\query.py", line 403, in get
+    self.model._meta.object_name
+course.models.DoesNotExist: CourseExpire matching query does not exist.
+ERROR 2020-11-11 20:12:58,317 basehttp 124 "PUT /cart/add/ HTTP/1.1" 500 21515
+ERROR 2020-11-11 20:13:08,148 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 131, in change_expire
+    course_expire = CourseExpire.objects.get(is_show=True, is_delete=False, pk=expire_id)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\models\query.py", line 403, in get
+    self.model._meta.object_name
+course.models.DoesNotExist: CourseExpire matching query does not exist.
+ERROR 2020-11-11 20:13:08,176 basehttp 124 "PUT /cart/add/ HTTP/1.1" 500 21516
+WARNING 2020-11-11 20:15:01,393 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:15:01,395 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+ERROR 2020-11-11 20:15:05,873 exception 118 Internal Server Error: /cart/add/
+Traceback (most recent call last):
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Program Files\JidiDemo\Web进阶\drf\eduAPI\eduAPI\apps\cart\views.py", line 131, in change_expire
+    course_expire = CourseExpire.objects.get(is_show=True, is_delete=False, pk=expire_id)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Program Files\virtualenv_demo\edu\lib\site-packages\django\db\models\query.py", line 403, in get
+    self.model._meta.object_name
+course.models.DoesNotExist: CourseExpire matching query does not exist.
+ERROR 2020-11-11 20:15:05,995 basehttp 124 "PUT /cart/add/ HTTP/1.1" 500 21516
+WARNING 2020-11-11 20:16:24,268 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:16:24,269 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:16:26,247 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:16:26,248 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:16:32,789 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:16:32,790 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:16:35,271 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:16:35,272 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:18:35,810 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:18:35,812 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:20:30,015 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:20:30,016 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:21:03,342 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:21:03,343 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:22:24,021 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:22:24,022 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:23:15,916 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:23:15,916 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:23:20,572 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:23:20,573 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:23:26,040 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:23:26,041 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:24:01,708 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:24:01,709 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:24:04,797 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:24:04,797 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:24:10,933 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:24:10,934 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:24:32,077 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:24:32,078 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:24:34,271 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:24:34,272 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:24:50,134 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:24:50,134 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:24:52,290 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:24:52,291 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:25:52,491 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:25:52,492 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
+WARNING 2020-11-11 20:25:55,114 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-11-11 20:25:55,115 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1925
