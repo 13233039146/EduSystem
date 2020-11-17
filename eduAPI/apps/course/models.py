@@ -116,6 +116,7 @@ class Course(BaseModel):
             price = float(expire_obj.price)
             print(price)
             return price
+
         active_list = self.active_list()
 
         if len(active_list) > 0:

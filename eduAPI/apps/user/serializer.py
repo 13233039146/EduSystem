@@ -15,7 +15,6 @@ jwt_encode_handler = api_settings.JWT_ENCODE_HANDLER
 
 
 class UserModelSerializer(ModelSerializer):
-    print('hhhhha')
     # 自定义字段,token要参与序列化传给前端
     token = serializers.CharField(max_length=1024, help_text='用户token', read_only=True)
     code = serializers.CharField(help_text='手机短信验证码', write_only=True)

@@ -1,8 +1,7 @@
-
-
 from django.shortcuts import render
 from rest_framework import status
 from rest_framework.permissions import IsAuthenticated
+
 from rest_framework.response import Response
 from rest_framework.viewsets import ViewSet
 # Create your views here.
@@ -77,7 +76,7 @@ class CartAPIView(ViewSet):
             result.append({
                 # 拿到所有的有效期和对应价格
                 'expire_list': course.expire_list,
-                'expire_id' : expire_id,
+                'expire_id': expire_id,
                 'price': course.real_price(expire_id),
                 'course_img': IMG_SRC + course.course_img.url,
                 'name': course.name,
@@ -105,7 +104,15 @@ class CartAPIView(ViewSet):
         # 执行命令
         pipeline.execute()
 
-        return Response('ok')
+        cart_list_bytes = conn.hgetall("cart_%s" % user_id)
+        selected_list_bytes = conn.smembers("selected_%s" % user_id)
+        if len(cart_list_bytes) == len(selected_list_bytes):
+            return Response({
+                'checked': True,
+            })
+        return Response({
+            'checked': False
+        })
 
     def change_expire(self, request):
         user_id = request.user.id
@@ -147,3 +154,96 @@ class CartAPIView(ViewSet):
         return Response({
             'cart_length': course_len
         })
+
+
+class CarAllCheckedViewset(ViewSet):
+    def checked_all(self, request):
+        user_id = request.user.id
+        checked = request.data.get('checked')
+        conn = get_redis_connection('cart')
+
+        # TODO 1 拿到数据库中的所有course_id
+        cart_list_bytes = conn.hgetall("cart_%s" % user_id)
+
+        pipeline = conn.pipeline()
+        for course_id_byte, expire_id_byte in cart_list_bytes.items():
+            course_id = int(course_id_byte)
+            # TODO 2 如果勾了全选,则加入到选中数据库
+            if checked:
+                # 选中 就添加
+                pipeline.sadd("selected_%s" % user_id, course_id)
+                # 没勾选 就删掉
+            else:
+                pipeline.srem('selected_%s' % user_id, course_id)
+
+        # 执行命令
+        pipeline.execute()
+        return Response({'message': 'success'}, status=status.HTTP_200_OK)
+
+    def delete_all(self, request):
+        user_id = request.user.id
+        conn = get_redis_connection('cart')
+
+        cart_list_bytes = conn.hgetall("cart_%s" % user_id)
+
+        pipeline = conn.pipeline()
+        for course_id_byte, expire_id_byte in cart_list_bytes.items():
+            course_id = int(course_id_byte)
+            pipeline.hdel('cart_%s' % user_id, course_id)
+            pipeline.srem('selected_%s' % user_id, course_id)
+
+        pipeline.execute()
+
+        return Response({
+            'message': '删除成功',
+        })
+
+    def get_order_data(self, request):
+        user_id = request.user.id
+        conn = get_redis_connection('cart')
+        # 商品总价
+        total = 0
+        # 返回给前端的数据
+        data = []
+        # 拿到数据库中的数据
+        cart_list_bytes = conn.hgetall("cart_%s" % user_id)
+        selected_list_bytes = conn.smembers("selected_%s" % user_id)
+
+        for course_id_byte, expire_id_byte in cart_list_bytes.items():
+            course_id = int(course_id_byte)
+            expire_id = int(expire_id_byte)
+
+            # 如果被选中了
+            if course_id_byte in selected_list_bytes:
+                try:
+                    course = Course.objects.get(is_show=True, is_delete=False, pk=course_id)
+                except Course.DoesNotExist:
+                    continue
+                # 默认永久有效
+                old_price = course.real_price(0)
+                expire_text = '永久有效'
+
+                # 有效期不是永久的
+                if expire_id > 0:
+                    course_expire = CourseExpire.objects.get(pk=expire_id)
+                    old_price = course_expire.price
+                    expire_text = course_expire.expire_text
+
+                # 折后价格
+                real_price = course.real_price(expire_id)
+
+                data.append({
+                    'id': course.id,
+                    'old_price': old_price,
+                    'real_price': real_price,
+                    'name': course.name,
+                    'course_img': IMG_SRC + course.course_img.url,
+                    'expire_text': expire_text,
+                })
+
+                total += float(real_price)
+        return Response({
+            'message': 'ok',
+            'data': data,
+            'total_price': total
+        }, status=status.HTTP_200_OK)

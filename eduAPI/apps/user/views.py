@@ -166,7 +166,7 @@ class MsgLoginAPIView(APIView):
         # TODO 2 检验短信验证码
         redis_conn = get_redis_connection('sms_code')
         redis_code = redis_conn.get('alive_%s' % phone)
-        print('两个code: ',redis_code, code)
+
         if redis_code.decode() != code:
             return Response({
                 'message': '您输入的验证码有误!'
